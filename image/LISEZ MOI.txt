@@ -1,0 +1,2 @@
+Veuillez changer le lien d'accès au image pour le tkinter, sinon le programme ne fonctionnera pas.
+Ralph et Ariel 
